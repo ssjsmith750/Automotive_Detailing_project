@@ -1,4 +1,4 @@
-# 5k_Model_project
+# Automobile Detailing
 
 🚗📊 Exciting Data Visualization Project in the Automobile Detailing Industry! 📊🚗
 
